@@ -1,3 +1,3 @@
 # myproject
 Practice
-this is my forst commit
+this is my first commit.today.
